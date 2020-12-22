@@ -1,0 +1,25 @@
+{
+  "name": "czf-vue-cli",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "download-git-repo": "^1.1.0",
+    "inquirer": "^6.2.2",
+    "ora": "^3.2.0"
+  },
+  "bin": {
+    "czf": "bin/czf",
+    "czf-add": "bin/czf-add",
+    "czf-delete": "bin/czf-delete",
+    "czf-list": "bin/czf-list",
+    "czf-init": "bin/czf-init"
+  },
+  "author": "czf",
+  "license": "ISC"
+}
