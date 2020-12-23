@@ -1,6 +1,6 @@
 {
   "name": "czf-vue-cli",
-  "version": "0.1.1",
+  "version": "0.2.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,11 +14,12 @@
     "ora": "^3.2.0"
   },
   "bin": {
-    "czf": "bin/czf",
-    "czf-add": "bin/czf-add",
-    "czf-delete": "bin/czf-delete",
-    "czf-list": "bin/czf-list",
-    "czf-init": "bin/czf-init"
+    "czf": "bin/czf.js",
+    "czf-add": "bin/czf-add.js",
+    "czf-delete": "bin/czf-delete.js",
+    "czf-list": "bin/czf-list.js",
+    "czf-init": "bin/czf-init.js",
+    "czf-create": "bin/czf-create.js"
   },
   "author": "czf",
   "license": "ISC"
