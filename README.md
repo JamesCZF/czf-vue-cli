@@ -1,4 +1,4 @@
-# czf-vue-cli
+[![NPM version](https://img.shields.io/npm/v/czf-vue-cli.svg)](https://www.npmjs.com/package/czf-vue-cli)
 
 vue 自定义脚手架工具
 
